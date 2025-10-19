@@ -1,0 +1,3 @@
+madrockxy
+Linux madrockxy-Latitude-3450 6.8.0-85-generic #85~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Fri Sep 19 16:18:59 UTC 2 x86_64 x86_64 x86_64 GNU/Linux
+ 20:51:01 up  1:35,  1 user,  load average: 1.80, 2.35, 2.79
